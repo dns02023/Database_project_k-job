@@ -1,6 +1,5 @@
 # Database_project k-job
-2019 database term project : KJOB(virtual job recruiting system)
+가상의 취업정보 사이트 KJOB 입니다.  
+PHP, MariaDB  
 
-RDBMS : MariaDB
-
-Read my project specification DATABASE_KJOB.pdf 
+자세한 프로젝트 설명은 DATABASE_KJOB.pdf를 참고해주세요.
